@@ -41,5 +41,38 @@ Underline 1
 
 # Imagenes
 
-![Logo Github](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=2ahUKEwi1pOeN58LlAhVCx1kKHR8aB_AQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pngfly.com%2Fpng-3ifvk0%2F&psig=AOvVaw1RCq7SWC1EbA09YJTWnzwc&ust=1572484419450862)
+![Logo Github](https://github.githubassets.com/images/modules/open_graph/github-mark.png)
+
+# Code Snippets
+
+``` JSON
+[
+  {
+    "title": "apples",
+    "count": [12000, 20000],
+    "description": {"text": "...", "sensitive": false}
+  },
+  {
+    "title": "oranges",
+    "count": [17500, null],
+    "description": {"text": "...", "sensitive": false}
+  }
+]
+```
+
+# Tablas
+
+| Nombre | Apellidos | Documento | 
+| ------ | --------- | --------- |
+| Jimmy | Herrera | 73186835 | 
+| Kevin | Vera | 70206048 |
+
+# Citas
+
+Esto es un texto referente a un cita que pondremos debajo:
+>Esto es una cita.
+
+Esto es otro texto pe causa
+>Esto es otra cita.
+
 
