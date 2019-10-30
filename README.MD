@@ -76,3 +76,23 @@ Esto es otro texto pe causa
 >Esto es otra cita.
 
 
+# Lineas divisoras
+
+Esto es un texto que va a ser dividido por guiones medios
+
+---
+
+Esto es otro texto dividido por asteriscos
+
+***
+
+Es otro texto dividido por guiones bajos
+
+___
+
+# Saltos de lineas 
+
+Esto es nuestro prtimer parrafo 
+
+Esto es nuestro segundo párrafo
+- Lista
